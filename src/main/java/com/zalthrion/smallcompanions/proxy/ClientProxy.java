@@ -1,9 +1,5 @@
 package com.zalthrion.smallcompanions.proxy;
 
-import java.util.HashMap;
-
-import net.minecraft.client.model.ModelBiped;
-import net.minecraft.item.Item;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.client.registry.RenderingRegistry;
 
@@ -39,7 +35,6 @@ public class ClientProxy extends CommonProxy {
 	
 	public void registerEntityRenderers() {
 		/* Animals */
-		RenderingRegistry.registerEntityRenderingHandler(EntityBird.class, new RenderBird.Factory());
 		RenderingRegistry.registerEntityRenderingHandler(EntityRainbowPig.class, new RenderRainbowPig.Factory());
 		RenderingRegistry.registerEntityRenderingHandler(EntityBadger.class, new RenderBadger.Factory());
 		RenderingRegistry.registerEntityRenderingHandler(EntityFancyBadger.class, new RenderFancyBadger.Factory());
