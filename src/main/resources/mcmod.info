@@ -1,0 +1,16 @@
+[
+{
+  "modid": "smallcompanions",
+  "name": "Small Companions",
+  "description": "Have your own little companion!",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Zalthrion"],
+  "credits": "Zalthrion",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

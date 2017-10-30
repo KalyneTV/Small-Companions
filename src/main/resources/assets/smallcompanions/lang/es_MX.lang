@@ -1,0 +1,102 @@
+#Creative Tabs
+
+itemGroup.Zyl'Roth=Zyl'roth
+
+
+#Tooltips
+
+tooltip.zylroth:shift=- Presiona la tecla Shift para mas info -
+
+tooltip.zylroth:beacon=Puede utilizarse para las bases de los Faros
+tooltip.zylroth:core=La fuente de vida de una criatura mécanica
+tooltip.zylroth:head=Se ve como una pieza rara de arquitectura.
+tooltip.zylroth:tenebrae=Puedes sentir oscuridad salir de el..
+tooltip.zylroth:tenebrae_armor=Hecho de un material oscuro, parece ser mas durable que el diamante.
+
+tooltip.zylroth:broken_sword=Tienes que reparar esta espada antes de continuar usándola!
+tooltip.zylroth:broken_tool=Tienes que reparar esta espada antes de continuar usándola!
+
+tooltip.zylroth:tenebrae_generic=Apenas puedes notar un resplandor débil salir de ella.
+
+tooltip.zylroth:tenebrae_sword_info=Agacharse + Click derecho mientras lo sostienes para lanzar una Perla del Ender.
+tooltip.zylroth:tenebrae_sword_lore=La espada parece vibrar mientras esta en tu mano.
+
+tooltip.zylroth:tenebrae_tool_info=Agacharse + Click derecho mientras lo sostienes, para usar normalmente.
+tooltip.zylroth:tenebrae_tool_lore=Una herramienta hecha de un mineral antiguo, Tenebrae, una esencia oscura lo rodea..
+
+
+#Blocks
+
+tile.zylroth:ashBlock.name=Bloque de Ceniza
+tile.zylroth:chiseledTenebrae.name=Tenebrae Cincelada
+tile.zylroth:empoweredTenebraeCore.name=Núcleo de Tenebrae Energizada
+tile.zylroth:infusedTenebrae.name=Tenebrae Potenciada
+tile.zylroth:infuserMachine.name=Tenebrae Infuser
+tile.zylroth:infuserMachineActive.name=Tenebrae Infuser [Active]
+tile.zylroth:tenebraeBlock.name=Bloque de Tenebrae
+tile.zylroth:tenebraeCore.name=Núcleo de Tenebrae
+tile.zylroth:tenebraeOre.name=Mineral de Tenebrae
+tile.zylroth:voidiumOre.name=Mineral de Voidium
+
+tile.zylroth:spawnerVoidDragon.name=Spawner [Dragon Abisal]
+
+
+#Entity
+
+entity.Zylroth:Bird.name=Ave
+entity.Zylroth:Empowered_Tenebrae_Golem.name=Golem de Tenebrae Energizado
+entity.Zylroth:Pyro_Knight.name=Pyro-Caballero
+entity.Zylroth:Rainbow_Pig.name=Cerdo Arcoiris
+entity.Zylroth:Skeletal_Horse.name=Caballo Esqueletico
+entity.Zylroth:Tenebrae_Golem.name=Golem de Tenebrae
+entity.Zylroth:Undead_Minion.name=Esbirro No-muerto
+entity.Zylroth:Undead_Warrior.name=Guerrero No-muerto
+entity.Zylroth:Void_Dragon.name=Dragon Abisal
+
+entity.Zylroth:Deathcharger.name=Destrero de la Muerte
+entity.Zylroth:Plagued_Horse.name=Caballo Plagado
+
+
+#Armors
+
+item.zylroth:tenebraeHelmet.name=Casco de Tenebrae
+item.zylroth:tenebraeChestplate.name=Pechera de Tenebrae
+item.zylroth:tenebraeLeggings.name=Pantalones de Tenebrae
+item.zylroth:tenebraeBoots.name=Botas de Tenebrae
+
+
+#Tools
+
+item.zylroth:creativeSword.name=Espada de Creativo
+item.zylroth:creativePickaxe.name=Pico de Creativo
+item.zylroth:creativeAxe.name=Hacha de Creativo
+item.zylroth:creativeShovel.name=Pala de Creativo
+item.zylroth:creativeHoe.name=Azada de Creativo
+
+item.zylroth:tenebraeSword.name=Espada de Tenebrae
+item.zylroth:tenebraePickaxe.name=Pico de Tenebrae
+item.zylroth:tenebraeAxe.name=Hacha de Tenebrae
+item.zylroth:tenebraeShovel.name=Pala de Tenebrae
+item.zylroth:tenebraeHoe.name=Azada de Tenebrae
+
+
+#Items
+
+item.zylroth:rawTenebrae.name=Tenebrae Primordial
+item.zylroth:rawTenebraeIngot.name=Lingote de Tenebrae Primordial
+item.zylroth:tenebraeIngot.name=Lingote de Tenebrae
+item.zylroth:unstableTenebraeCore.name=Núcleo de Tenebrae Inestable
+
+item.zylroth:darkShard.name=Fragmento Oscuro
+item.zylroth:soulEssence.name=Esencia de Alma
+item.zylroth:cursedSoulEssence.name=Esencia de Alma Maldita
+item.zylroth:voidEssence.name=Esencia del Vacio
+item.zylroth:voidGem.name=Gema del Vacio
+
+item.zylroth.goldTalisman.name=Talisman de Oro
+item.zylroth:rainbowTalisman.name=Talisman Arcoiris
+item.zylroth:voidTalisman.name=Talisman del Vacio
+
+item.zylroth:emptySC.name=Cristal de Invocación Vacio
+item.zylroth:Summoning-Crystal_SC_Deathcharger.name=(Cristal de Invocación) Destrero de la Muerte
+item.zylroth:Summoning-Crystal_SC_PlaguedHorse.name=(Cristal de Invocación) Caballo Plagado

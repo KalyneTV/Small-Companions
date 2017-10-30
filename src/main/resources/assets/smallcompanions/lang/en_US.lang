@@ -1,0 +1,203 @@
+#Creative Tabs
+
+itemGroup.Zyl'Roth=Zyl'Roth
+
+
+#Tooltips
+
+tooltip.zylroth:shift=\n- Hold Shift for more info -
+
+tooltip.zylroth:beacon=Can be used for Beacon bases
+tooltip.zylroth:core=A powerful artifact with immense power running inside it.
+tooltip.zylroth:head=A block chiseled to look like a head.
+tooltip.zylroth:tenebrae=You can feel a dark essence coming out of it...
+tooltip.zylroth:tenebrae_armor=Made of a dark material\nSeems like it's more durable than diamond.
+tooltip.zylroth:generic_tool_info=Sneak + Right click while holding to use normally.
+
+tooltip.zylroth:tenebrae=An ancient ore, legends tell that it has driven people crazy.
+tooltip.zylroth:tenebrae_generic=You can feel a dark essence surrounding it.
+
+tooltip.zylroth:tenebrae_armor=Made of an ancient dark ore rumored to be better than Diamond.
+tooltip.zylroth:tenebrae_armor_stats=\nDefense Level: Diamond \nDurability: 42 \nEnchantability: 16
+
+tooltip.zylroth:tenebrae_sword_lore=It seems to be attracting dark energy while being held.
+tooltip.zylroth:tenebrae_sword_stats=\nDamage Level: Above Diamond \nDurability: 2250 \nEnchantability: 15
+tooltip.zylroth:tenebrae_tool_lore=A tool made of an ancient dark ore.
+tooltip.zylroth:tenebrae_tool_stats=\nHarvest Level: Diamond \nDurability: 2250 \nEnchantability: 15
+
+tooltip.zylroth:creative_generic=It glows from the power held within it.
+
+tooltip.zylroth:creative_sword_info=Sneak + Right click while holding\nto throw an ender pearl.
+tooltip.zylroth:creative_sword_lore=A sword made of the ancient material.\nIt is told that it holds the power of creation itself.
+tooltip.zylroth:creative_tool_lore=A tool made of the ancient material.\nIt is told that it holds the power of creation itself.
+
+tooltip.zylroth:spawnpoint.set=Sneak + Right Click\nTo set your spawnpoint on this dimension
+tooltip.zylroth:spawnpoint.overworld=Overworld Bind: %s
+tooltip.zylroth:spawnpoint.dimension=%s Bind: %s
+
+#Messages
+
+msg.zylroth:action.invalid=You can't do that right now!
+
+msg.zylroth:spawnpoint.warn=You must set a spawnpoint on this dimension before using this talisman!
+msg.zylroth:spawnpoint.set=You have set your spawnpoint on this dimension successfully.
+msg.zylroth:invaliddimension=You can not use this talisman in this dimension.
+
+msg.Zylroth:mount.owned=You're not the owner of this mount!
+
+msg.zylroth:broken_sword=You must repair this sword to continue using it!
+msg.zylroth:broken_tool=You must repair this tool to continue using it!
+
+#General
+
+general.zylroth:dimension.kyrul=Ky'rul
+general.zylroth:dimension.iridis=Iri'dis
+general.zylroth:dimension.glaciem=Glaciem
+
+general.zylroth:unavailable=Unavailable
+
+#Gui
+
+gui.zylroth:summon=Summon
+gui.zylroth:dismiss=Dismiss
+
+# Keybinds
+
+key.categories.zylroth=Zyl'roth
+key.zylroth:summongui=Open Summon GUI
+
+#Ore Blocks
+
+tile.zylroth:tenebraeOre.name=Tenebrae Ore
+tile.zylroth:inferniumOre.name=Infernium Ore
+tile.zylroth:endiriteOre.name=Endirite Ore
+tile.zylroth:voidiumOre.name=Voidium Ore
+
+
+#Blocks
+
+tile.zylroth:ashBlock.name=Ash Block
+tile.zylroth:chiseledTenebrae.name=Chiseled Tenebrae
+tile.zylroth:empoweredTenebraeCore.name=Empowered Tenebrae Core
+tile.zylroth:infusedTenebrae.name=Infused Tenebrae
+tile.zylroth:infuserMachine.name=Tenebrae Infuser
+tile.zylroth:infuserMachineActive.name=Tenebrae Infuser [Active]
+tile.zylroth:oreInfuserMachine.name=Ore Infuser
+tile.zylroth:oreInfuserMachineActive.name=Ore Infuser [Active]
+tile.zylroth:tenebraeBlock.name=Tenebrae Block
+tile.zylroth:tenebraeCore.name=Tenebrae Core
+
+tile.zylroth:autumnTreeLeaves.name=Autumn Tree Leaves
+
+tile.zylroth:rainbowRedLeaves.name=Rainbow Red Leaves
+tile.zylroth:rainbowOrangeLeaves.name=Rainbow Orange Leaves
+tile.zylroth:rainbowYellowLeaves.name=Rainbow Yellow Leaves
+tile.zylroth:rainbowGreenLeaves.name=Rainbow Green Leaves
+tile.zylroth:rainbowBlueLeaves.name=Rainbow Blue Leaves
+tile.zylroth:rainbowPurpleLeaves.name=Rainbow Purple Leaves
+
+tile.zylroth:rainbowRedSapling.name=Rainbow Red Sapling
+tile.zylroth:rainbowOrangeSapling.name=Rainbow Orange Sapling
+tile.zylroth:rainbowYellowSapling.name=Rainbow Yellow Sapling
+tile.zylroth:rainbowGreenSapling.name=Rainbow Green Sapling
+tile.zylroth:rainbowBlueSapling.name=Rainbow Blue Sapling
+tile.zylroth:rainbowPurpleSapling.name=Rainbow Purple Sapling
+
+tile.zylroth:spawnerVoidDragon.name=Spawner [Void Dragon]
+
+#Container
+
+container.zylroth:infuser=Infuser
+container.zylroth:oreInfuser=Ore Infuser
+
+#Ore Items
+
+item.zylroth:tenebraeChunk.name=Tenebrae Chunk
+item.zylroth:tenebraeIOre.name=Tenebrae Ore
+item.zylroth:tenebraeIngot.name=Tenebrae Ingot
+
+item.zylroth:rawInfernium.name=Raw Infernium
+item.zylroth:inferniumIngot.name=Infernium Ingot
+
+item.zylroth:endiriteChunk.name=Endirite Chunk
+item.zylroth:endiriteIOre.name=Endirite Ore
+item.zylroth:endiriteIngot.name=Endirite Ingot
+
+item.zylroth:tenebriumIngot.name=Tenebrium Ingot
+
+item.zylroth:voidiumChunk.name=Voidium Chunk
+item.zylroth:voidiumIOre.name=Voidium Ore
+item.zylroth:voidiumIngot.name=Voidium Ingot
+
+
+#Items
+
+item.zylroth:unstableTenebraeCore.name=Unstable Tenebrae Core
+
+item.zylroth:darkShard.name=Dark Shard
+item.zylroth:soulEssence.name=Soul Essence
+item.zylroth:cursedSoulEssence.name=Cursed Soul Essence
+item.zylroth:voidEssence.name=Void Essence
+item.zylroth:voidGem.name=Void Gem
+
+item.zylroth:goldTalisman.name=Gold Talisman
+item.zylroth:iceTalisman.name=Ice Talisman
+item.zylroth:autumnTalisman.name=Autumn Talisman
+item.zylroth:voidTalisman.name=Void Talisman
+
+item.zylroth:emptySC.name=Empty Summoning Crystal
+item.zylroth:Summoning-Crystal_SC_Deathcharger.name=(Summoning Crystal) Deathcharger
+item.zylroth:Summoning-Crystal_SC_PlaguedHorse.name=(Summoning Crystal) Plagued Horse
+item.zylroth:Summoning-Crystal_SC_WarTortoise.name=(Summoning Crystal) War Tortoise
+item.zylroth:Summoning-Crystal_SC_SavageBadger.name=(Summoning Crystal) Savage Badger
+item.zylroth:Summoning-Crystal_SC_SwiftUnicorn.name=(Summoning Crystal) Swift Unicorn
+
+
+#Entity
+
+entity.Zylroth.bird.name=Bird
+entity.Zylroth.tenebraeGuardian.name=Tenebrae Guardian
+entity.Zylroth.voidLord.name=Void Lord Zakuun
+entity.Zylroth.rainbowPig.name=Rainbow Pig
+entity.Zylroth.skeletalHorse.name=Skeletal Horse
+entity.Zylroth.tenebraeProtector.name=Tenebrae Protector
+entity.Zylroth.undeadMinion.name=Undead Minion
+entity.Zylroth.undeadWarrior.name=Undead Warrior
+entity.Zylroth.voidDragon.name=Void Dragon
+
+entity.Zylroth:Deathcharger.name=Deathcharger
+entity.Zylroth:Plagued_Horse.name=Plagued Horse
+entity.Zylroth:WarTortoise.name=War Tortoise
+entity.Zylroth:SavageBadger.name=Savage Badger
+entity.Zylroth:SwiftUnicorn.name=Swift Unicorn
+
+
+#Armors
+
+item.zylroth:tenebraeHelmet.name=Tenebrae Helmet
+item.zylroth:tenebraeChestplate.name=Tenebrae Chestplate
+item.zylroth:tenebraeLeggings.name=Tenebrae Leggings
+item.zylroth:tenebraeBoots.name=Tenebrae Boots
+
+item.zylroth:voidLordHelmet.name=Void Lord Helmet
+item.zylroth:voidLordChestplate.name=Void Lord Chestplate
+item.zylroth:voidLordLeggings.name=Void Lord Leggings
+item.zylroth:voidLordBoots.name=Void Lord Boots
+
+
+#Tools
+
+item.zylroth:creativeSword.name=Creative Sword
+item.zylroth:creativePickaxe.name=Creative Pickaxe
+item.zylroth:creativeAxe.name=Creative Axe
+item.zylroth:creativeShovel.name=Creative Shovel
+item.zylroth:creativeHoe.name=Creative Hoe
+
+item.zylroth:tenebraeSword.name=Tenebrae Sword
+item.zylroth:tenebraePickaxe.name=Tenebrae Pickaxe
+item.zylroth:tenebraeAxe.name=Tenebrae Axe
+item.zylroth:tenebraeShovel.name=Tenebrae Shovel
+item.zylroth:tenebraeHoe.name=Tenebrae Hoe
+item.zylroth:tenebraeLeafCutter.name=Tenebrae Leaf Cutter
+
+item.zylroth:woodenCrossbow.name=Wooden Crossbow
